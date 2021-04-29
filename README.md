@@ -1,5 +1,5 @@
 <p align="center"><img src="preview.jpg?v=3" /></p>
-<h1 align="center">language-sl</h1>
+<h1 align="center">language-ar</h1>
 <p align="center">Arabic translations for WonderCMS (by shoaiyb sysa)</p>
 
 <br><br>

@@ -1,27 +1,27 @@
 OVERLAYS
-    ">Saving","> Shranjujem"
-    ">Checking for updates",">Preverjam posodobitve"
+    ">Saving","> إنقاذ"
+    ">Checking for updates",">البحث عن تحديثات"
 
 
 BUTTONS
-    "> Settings","> Nastavitve"
+    "> Settings","> الإعدادات"
 
 
 MENU ITEMS
-    ">Current page",">Trenutna stran"
-    ">Menu",">Meni"
-    ">Files",">Datoteke"
-    ">Themes",">Teme
-    ">Plugins",">Vtičniki"
-    ">Security",">Varnost"
+    ">Current page",">الصفحه الحاليه"
+    ">Menu",">قائمة"
+    ">Files",">الملفات"
+    ">Themes",">الموضوعات"
+    ">Plugins",">الإضافات"
+    ">Security",">الأمان"
 
 
 CURRENT PAGE
-    ">Page title",">Ime strani"
-    ">Page keywords",">Ključne besede"
-    ">Page description",">Opis"
-    "> Delete page","> Izbriši stran"
-    "return confirm\('Delete (.*?)\?'\)","return confirm('Izbris $1?')"
+    ">Page title",">عنوان الصفحة"
+    ">Page keywords",">الصفحة الرئيسية"
+    ">Page description",">الصفحة الوصف"
+    "> Delete page","> حذف الصفحة"
+    "return confirm\('Delete (.*?)\?'\)","عودة تأكيد(' $1?')"
 
 
 MENU
